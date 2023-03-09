@@ -1,0 +1,85 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "PC Lenovo",
+      "price": "1400",
+      "img": "product1.webp",
+      "like": 0,
+      "quantity": 10,
+      "description": "Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page"
+    },
+    {
+      "id": 2,
+      "name": "Mouse",
+      "price": "30",
+      "img": "product2.jpg",
+      "like": 0,
+      "quantity": 0,
+      "description": "Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page"
+    },
+    {
+      "name": "Midnight",
+      "price": "1250",
+      "img": "product3.jpg",
+      "like": 0,
+      "quantity": "3",
+      "description": "New Product",
+      "id": 3
+    },
+    {
+      "name": "",
+      "price": 0,
+      "img": "",
+      "like": 0,
+      "quantity": 0,
+      "description": "",
+      "id": 4
+    },
+    {
+      "name": "Midnight",
+      "price": "3500",
+      "img": "LogoApp.png",
+      "like": 0,
+      "quantity": "2",
+      "description": "PC",
+      "id": 5
+    },
+    {
+      "name": "President",
+      "price": "30000",
+      "img": "LogoApp.png",
+      "like": 0,
+      "quantity": "3",
+      "description": "c'est un produit x",
+      "id": 6
+    },
+    {
+      "name": "President",
+      "price": "2578",
+      "img": "LogoApp.png",
+      "like": 0,
+      "quantity": "5",
+      "description": "eqsrdtfyuhi",
+      "id": 7
+    },
+    {
+      "name": "Keyboard",
+      "price": "1600",
+      "img": "Capture.PNG",
+      "like": 0,
+      "quantity": "3",
+      "description": "PC Keyboard",
+      "id": 8
+    },
+    {
+      "name": "ghggh",
+      "price": "14",
+      "img": "",
+      "like": 0,
+      "quantity": "14",
+      "description": "fdfd14",
+      "id": 9
+    }
+  ]
+}
